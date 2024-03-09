@@ -32,3 +32,8 @@ To utilize the "Simple Ethernet Protocol Simulation and Performance Analysis" pr
 
    ```bash
    git clone <repository_url>
+
+ ## Contributions
+
+Contributions are welcome! If you find any issues or want to enhance the functionality of this code, feel free to create pull requests.
+
